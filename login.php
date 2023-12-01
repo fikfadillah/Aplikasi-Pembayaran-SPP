@@ -47,9 +47,9 @@ if (isset($_POST['btn-login'])) {
 </head>
 
 <body class="bg-gradient-primary">
-  <div class="d-flex justify-content-center mt-3">
+  <!-- <div class="d-flex justify-content-center mt-3">
     <img src="src/img/logo.png" alt="" width="150" class="dt-center">
-  </div>
+  </div> -->
   <h1 class="text-center text-white mt-3"><strong>E-SPP ~~ </strong>Aplikasi Pembayaran SPP</h1>
   <div class="container">
     <!-- Outer Row -->
