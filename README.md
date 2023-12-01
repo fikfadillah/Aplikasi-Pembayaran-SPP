@@ -4,15 +4,7 @@
 
 Simpel Aplikasi Pembayaran SPP Berbasis WEB dengan PHP 8.2 dan MySQL, **Dari Tugas Kuliah**
 
-<img src="src/img/image1.png" width="385px" align="center">
 <img src="src/img/image2.png" width="385px" align="center">
-<img src="src/img/image3.png" width="385px" align="center">
-<img src="src/img/image4.png" width="385px" align="center">
-<img src="src/img/image5.png" width="385px" align="center">
-<img src="src/img/image6.png" width="385px" align="center">
-<img src="src/img/image7.png" width="385px" align="center">
-<img src="src/img/image8.png" width="385px" align="center">
-<img src="src/img/image9.png" width="385px" align="center">
 
 ## Tech Stack
 
