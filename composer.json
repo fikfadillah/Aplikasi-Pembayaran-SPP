@@ -1,0 +1,14 @@
+{
+    "name": "fikfadillah/e-spp",
+    "description": "Tugas IESI",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fiik",
+            "email": "taufikfadillah2003@gmail.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.15"
+    }
+}
