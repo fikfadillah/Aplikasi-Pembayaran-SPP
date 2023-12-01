@@ -33,4 +33,6 @@ Simpel Aplikasi Pembayaran SPP Berbasis WEB dengan PHP 8.2 dan MySQL, **Dari Tug
 - Laporan Pembayaran
 - Export PDF, EXCEL, CSV, COPY, PRINT
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/taufikfadi4){:target="\_blank"}
+## Support Me
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/taufikfadi4)
