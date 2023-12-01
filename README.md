@@ -1,5 +1,3 @@
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
-
 # Aplikasi Pembayaran SPP ~ PHP OOP PDO, MySQL
 
 Simpel Aplikasi Pembayaran SPP Berbasis WEB dengan PHP 8.2 dan MySQL, **Dari Tugas Kuliah**
